@@ -1,5 +1,5 @@
-#comienzo{ 
-   background-color: beige;
+div #comienzo{  
+    height: 300px ;
     text-align: center;
     color: rgb(68, 110, 110);
 }
