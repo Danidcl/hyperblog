@@ -1,4 +1,8 @@
+body{
+    text-align: center;
+}
 div #comienzo{  
+    border: 2px cornflowerblue ;
     height: 300px ;
     text-align: center;
     color: rgb(68, 110, 110);
@@ -9,4 +13,5 @@ div #comienzo{
     border-radius: 5px;
     width: 300px;
     border-style: solid;
+    text-align: center;
 }
